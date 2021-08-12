@@ -1,0 +1,138 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  @responsive {
+    .text-shadow {
+      text-shadow: 3px 3px 1px #5b6bb3;
+    }
+  }
+}
+
+.bg-image {
+  background-image: url(/images/city.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+button:focus {
+  outline: none
+}
+
+input:focus {
+  outline: none !important
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+/* gray-bg */
+.gray-bg {
+  background: linear-gradient(to bottom, #4d4d4d, #232323)
+}
+
+/* card-bg */
+.card-bg {
+  /* background: linear-gradient(to bottom, #7f3875, #360d43) */
+  background: #292B2A;
+}
+
+.locked-overlay, .locked-overlay .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.locked-overlay .overlay {
+  background-color: rgba(255, 255, 255, 0.4);
+}
+
+.lock-image {
+  width: 70px;
+  padding: 8px;
+  background: rgb(255, 217, 0);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* button */
+.btn-border-effect {
+  box-shadow: inset 2px 3px 5px #dddddd;
+}
+.btn-shadow {
+  box-shadow: 3px 5px 8px #000000;
+  border: 4px solid #000000
+}
+
+.wallet-wrapper {
+	padding: 20px 40px;
+  min-width: 250px;
+  display: flex;
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  
+}
+
+.wallet-wrapper:first-child {
+  border-bottom: solid 1px #eaeaea;
+}
+
+div.wallet-wrapper:hover {
+  background-color: #ffe500;
+}
+
+.wallet-logo {
+  padding: 10px;
+}
+.wallet-logo img {
+  height: 40px;
+  display: flex;
+}
+.wallet-name {
+  font-size: 20px;
+  font-weight: bold;
+}
+.wallet-desc {
+  margin-top: 5px;
+  color: gray;
+}
+
+.header-desktop {
+  margin-bottom: -30px;
+}
+
+.header-desktop img:first-child, .header-desktop img:last-child{
+  width: 35%;
+}
+
+.header-desktop img:last-child {
+  margin-bottom: -70px;
+}
+
+@media screen and (max-width: 1100px) {
+  .header-desktop img:last-child {
+    margin-bottom: -60px;
+  }
+}
+
+.header-desktop img:nth-child(2) {
+  width: 30%;
+}
+
+.header-mobile img:first-child {
+  max-width: 260px;
+}

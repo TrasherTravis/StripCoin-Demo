@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url(fonts/SourceSans3-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url(fonts/SourceSans3-it.ttf) format('woff2'),
+  url(fonts/SourceSans3-it.ttf) format('woff'),
+  url(fonts/SourceSans3-it.ttf) format('truetype');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'STRIP';
+  src: url(fonts/ASTERA-v2.ttf) format('truetype');
+}
