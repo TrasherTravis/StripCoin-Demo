@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 303 166" width="303" height="166">
+	<title>arrow-right</title>
+	<defs>
+		<image  width="297" height="148" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASkAAACUCAMAAAD4ZC+vAAAAAXNSR0IB2cksfwAAAE5QTFRF9/f39vb2/v7+paWl/v7+xMTErKysycnJ+vr6pKSk/f39oaGh8/Pzv7+/kZGRi4uLkpKSvb29uLi4l5eXm5ubr6+v6OjoU1NT39/f6OjoFfQzIwAAABp0Uk5TAAAA//////8A/wD/AP///////////wD/gP/H3bB5AAAERUlEQVR4nO2dy5bTQAxEpR6Po2k6gAOG4f9/FEvOJM7LpQWHBFJ3nYVPHZWkfiki/y9aXrrXoqr3/pCHp/Rd122MSiHKW+e8VlGjWLfR8qnr9lLRgGvUvuuOUrV7f87jMiXzbiGVCA14lXaw3tGA9/6mx+QkokIqVsBr6IVQswGFYp1xZr2ZTZVm9/6yB+OqUF23rY0xdcKiPTg3oNKAC25E1D5X0YAHVoSiAY80scuqdyqVcg0onoN0sypU55swXNhMNLXPQKotu/U99gVJ5d06xZqoUCruggbN7CsNmEITUWVCA06oFigVt/YCNZzWC0PKmaIq0yxQLPEdKmxAoQElKiCSaigMqpmaMCALoNOwAc1oQPF9BSjVrtz7Ix+FxHKZLWiAm4WBFTBoWCoacEY1sQkj7BbEFzbs1pM0K99owBQJAw7cWQhawoDGCuioVWTAgQacUbgG3DGtB6oF7q1zDRioJI4h7v2RjwLu1k2Y1ye04bTOChg0w1t7xitDgeJuvXINGKhBqWjAoOEKOLACzuComtI6F4ESp8s4V1EpR4WbMFnUvmMD8t6sRF8Fo0q4BnSmXIWiasc3NntwBeQmTKDr1/sjqowxFeC0Tqk+SPRVXAM6TSs2IJVy1CorYJJErio0YKCGDHi5C2pPScKA48mgk/bjeWnw1t6yAm7Bj/9rfqIfLDdhXv/GF/27jOUw6IRKrTMe1oBUCnBoQakU4qMFpVKQcX7mTaUwY7wypVIJdpVKJXGpqFSKqa+iUjneqVSOl0qlUkyNApXK0LP25XiJuVVUCsIePUm/f1lKpQC9cScvRe8D46gUpj8Od37qfXTIuDhJbu/Pyy90mb8/G0B475O3+yC1viGhDjnqqVG7NXb3aD1e5J8weNul5808fxuJpsnuG86nR29PvD5Yr1Ao8RqGrDfyAn9YD1c9Y9WLB9woR428uuiYYOvxPUi8c09UPd7w9KFwMKIqh82LN5womfs9PCbzJrAzH/nA1kn0UVzrOXitt+OIQYl3Ddh6zOUx3Qwl85ETgxzD7YEpO87co1o2B7HNAq3HhtOxAt/IcJtFouHE1mNAedVLvBBl1XPw8zRus0gkcxhRzFESM2ITL44ZURMZofinmlOaxu0Bq57EfHTOxsuRmYpAoTyicHtA60XDSevlwNYzbWwQpoYTRRQXxTOJPoprPQfnKCZzSU1YHPn/fQGtlyI1CZYRlZsuzBwlubUet1kC/OcWJwO4npWG24OhMpeLH1fhPzfknrknH/hvRb7Wo/Ua3j0YKiPKq55uUERV9lFOE3BNw4Wi9WZWEzo78wVr/1S0LTyuWnLz0qtf0qBQS27Uvx2r3gVXDfhalNY7ZQqcKxWQ086vc3G7ZeCR+nXOe/Utn/Pf5OSsbziOHCEXLKQajFVvjUMFHLjNsorq/nxma1zrIaJZ2PLxNSSiitZLYfb+5w4XfgPAee/PJ1Ri6QAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="3" y="15" />
+</svg>
